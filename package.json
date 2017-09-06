@@ -1,0 +1,27 @@
+{
+  "name": "shopify-winternship-2018-backend",
+  "version": "1.0.0",
+  "description": "Created for Shopify's 2018 Winternship backend challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzzhang/Shopify-Winternship-2018-Backend.git"
+  },
+  "keywords": [
+    "Shopify",
+    "Javascript",
+    "Node"
+  ],
+  "author": "Kevin Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzzhang/Shopify-Winternship-2018-Backend/issues"
+  },
+  "homepage": "https://github.com/kzzhang/Shopify-Winternship-2018-Backend#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
