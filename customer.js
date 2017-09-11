@@ -64,6 +64,8 @@ module.exports = class customer {
 								invalidFields.push(key);
 							}
 						}
+					} else if (field == null) {
+						invalidFields.push(key);
 					}
 				}
 			}
